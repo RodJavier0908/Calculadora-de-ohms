@@ -1,6 +1,6 @@
 # impedancia_calculator
 
-A new Flutter project.
+Calculator ohms.
 
 ## Getting Started
 
